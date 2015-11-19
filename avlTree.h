@@ -362,6 +362,6 @@ Iterator<T> AvlTree<T>::find(const Predicate& predicate) {
 }
 
 
-/**************End of List class Functions************/
+/**************End of AvlTree class Functions************/
 
 #endif /* AVLTREE_H_ */
